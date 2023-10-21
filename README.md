@@ -13,12 +13,11 @@ Profili Gezen Kişi Sayısı<br>
 <b> Experience <b>
 <samp>
 - C#
-- Vb.Net 
 - Discord.js
 - MongoDB
 - JavaScript
-- Laravel - PHP
-- Reverse Engineering
+- HTML5
+- CSS
 <samp>
 
 
@@ -30,7 +29,7 @@ Profili Gezen Kişi Sayısı<br>
 
 ## Github Stats 
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mysteriouss3&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ardaabi1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
 
 <br clear="left"/> 
 
