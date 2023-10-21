@@ -23,7 +23,7 @@ Profili Gezen Kişi Sayısı<br>
 
 ## Şu Anda Dinliyorum
 
-<img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=4kzxdytfdco71jfr32cu2w102&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=ff0000&bar_color_cover=true"/>
+<img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=4kzxdytfdco71jfr32cu2w102&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true"/>
 
 <br clear="left"/> 
 
