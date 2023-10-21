@@ -1,0 +1,2 @@
+# qwentryy
+Qwentryy Bilgi
