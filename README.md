@@ -21,13 +21,13 @@ Profili Gezen Kişi Sayısı<br>
 <samp>
 
 
-## I'm Listening Right Now
+## Şu Anda Dinliyorum
 
 <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=z8tws1c5i0ympjfw6649yvkl4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
 
 <br clear="left"/> 
 
-## Github Stats 
+## Github İstatistik
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ardaabi1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
 
@@ -35,7 +35,7 @@ Profili Gezen Kişi Sayısı<br>
 
 
 
-## Languages and Tools:
+## Diller ve Araçlar:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,mysql,mongo,laravel,unity,dotnet,cs,visualstudio,vscode,atom,theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongo,cs,visualstudio,vscode,theme=dark)](https://skillicons.dev)
 
